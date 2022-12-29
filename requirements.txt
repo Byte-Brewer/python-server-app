@@ -1,0 +1,15 @@
+aiofiles==22.1.0
+certifi==2022.12.7
+cffi==1.15.1
+cryptography==38.0.4
+httptools==0.5.0
+multidict==6.0.4
+pycparser==2.21
+pyOpenSSL==22.1.0
+PyYAML==6.0
+sanic==22.12.0
+sanic-ext==22.12.0
+sanic-routing==22.8.0
+ujson==5.6.0
+uvloop==0.17.0
+websockets==10.4
